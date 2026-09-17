@@ -1,0 +1,182 @@
+{
+ "hero-bg.jpg": {
+  "source": "commons",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Organic_produce.JPG/3840px-Organic_produce.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File%3AOrganic_produce.JPG",
+  "author": "Lucinda jolly",
+  "q": "organic vegetables market",
+  "w": 2400,
+  "h": 1600
+ },
+ "cat-magasins.jpg": {
+  "source": "commons",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/REMA_1000_dyreartikler_dyremat_-_supermarket_grocery_store_interior_aisle_shelves_pet_food_-_T%C3%B8nsberg_Norway_2017-11-03.jpg/1920px-REMA_1000_dyreartikler_dyremat_-_supermarket_grocery_store_interior_aisle_shelves_pet_food_-_T%C3%B8nsberg_Norway_2017-11-03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File%3AREMA_1000_dyreartikler_dyremat_-_supermarket_grocery_store_interior_aisle_shelves_pet_food_-_T%C3%B8nsberg_Norway_2017-11-03.jpg",
+  "author": "Wolfmann",
+  "q": "grocery store shelves",
+  "w": 760,
+  "h": 720
+ },
+ "cat-magasins-hero.jpg": {
+  "source": "commons",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Vibrant_Toledo_Market_Produce_Display.jpg/3840px-Vibrant_Toledo_Market_Produce_Display.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File%3AVibrant_Toledo_Market_Produce_Display.jpg",
+  "author": "QueenCityCebu",
+  "q": "fresh produce market",
+  "w": 2000,
+  "h": 900
+ },
+ "cat-en-ligne.jpg": {
+  "source": "commons",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/20111031-FNS-LSC-0412_%286764093771%29.jpg/1920px-20111031-FNS-LSC-0412_%286764093771%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File%3A20111031-FNS-LSC-0412_%286764093771%29.jpg",
+  "author": "USDAgov",
+  "q": "grocery delivery box",
+  "w": 760,
+  "h": 720
+ },
+ "cat-en-ligne-hero.jpg": {
+  "source": "commons",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Cargo_bike_large_delivery.jpg/3840px-Cargo_bike_large_delivery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File%3ACargo_bike_large_delivery.jpg",
+  "author": "PDQ Courier",
+  "q": "delivery courier bicycle",
+  "w": 2000,
+  "h": 900
+ },
+ "sub-legumes.jpg": {
+  "source": "commons",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Organic_home-grown_tomatoes_-_unripe_to_ripe.jpg/1920px-Organic_home-grown_tomatoes_-_unripe_to_ripe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File%3AOrganic_home-grown_tomatoes_-_unripe_to_ripe.jpg",
+  "author": "Michal Klajban",
+  "q": "tomatoes",
+  "w": 200,
+  "h": 200
+ },
+ "sub-vrac.jpg": {
+  "source": "commons",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/David_Toews.jpg/1920px-David_Toews.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File%3ADavid_Toews.jpg",
+  "author": "leafschik1967",
+  "q": "bulk food store",
+  "w": 200,
+  "h": 200
+ },
+ "sub-frais.jpg": {
+  "source": "commons",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Moscow%2C_Paveletskaya_Plaza_Mar.2025_-_Rossiysky_cheese_01.jpg/1920px-Moscow%2C_Paveletskaya_Plaza_Mar.2025_-_Rossiysky_cheese_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File%3AMoscow%2C_Paveletskaya_Plaza_Mar.2025_-_Rossiysky_cheese_01.jpg",
+  "author": "Retired electrician",
+  "q": "cheese",
+  "w": 200,
+  "h": 200
+ },
+ "sub-epicerie.jpg": {
+  "source": "commons",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/020260402_high-protein_strawberry_pasta.jpg/1920px-020260402_high-protein_strawberry_pasta.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File%3A020260402_high-protein_strawberry_pasta.jpg",
+  "author": "Auctor quaerendae",
+  "q": "pasta",
+  "w": 200,
+  "h": 200
+ },
+ "sub-cosmetique.jpg": {
+  "source": "commons",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Pineco_zeep%2C_Clovers_soap_works%2C_soap_bar%2C_pic6.JPG/1920px-Pineco_zeep%2C_Clovers_soap_works%2C_soap_bar%2C_pic6.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File%3APineco_zeep%2C_Clovers_soap_works%2C_soap_bar%2C_pic6.JPG",
+  "author": "Alf van Beem",
+  "q": "soap bar",
+  "w": 200,
+  "h": 200
+ },
+ "sub-prix.jpg": {
+  "source": "commons",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Trebbin-Glau-Verwaltungsgebaeude-Rueckseite.jpg/1920px-Trebbin-Glau-Verwaltungsgebaeude-Rueckseite.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File%3ATrebbin-Glau-Verwaltungsgebaeude-Rueckseite.jpg",
+  "author": "Bildarbeiter",
+  "q": "coins",
+  "w": 200,
+  "h": 200
+ },
+ "sub-magasin.jpg": {
+  "source": "openverse",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Art_Deco_shop_front%2C_66_Blossom_Street_-_geograph.org.uk_-_6014280.jpg",
+  "credit": "https://commons.wikimedia.org/w/index.php?curid=143012024",
+  "author": "Alan Murray-Rust",
+  "q": "shop front",
+  "w": 200,
+  "h": 200
+ },
+ "sub-livraison.jpg": {
+  "source": "commons",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Ami_Box.jpg/1920px-Ami_Box.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File%3AAmi_Box.jpg",
+  "author": "Ivan Ruggiero",
+  "q": "cardboard box",
+  "w": 200,
+  "h": 200
+ },
+ "sub-bebe.jpg": {
+  "source": "commons",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Baby_food_isle_in_Czech_supermarket.jpg/1920px-Baby_food_isle_in_Czech_supermarket.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File%3ABaby_food_isle_in_Czech_supermarket.jpg",
+  "author": "MAKY.OREL",
+  "q": "baby food",
+  "w": 200,
+  "h": 200
+ },
+ "art-1.jpg": {
+  "source": "commons",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Produits_bio_20130912_03.jpg/1920px-Produits_bio_20130912_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File%3AProduits_bio_20130912_03.jpg",
+  "author": "Georges Seguin (Okki)",
+  "q": "organic shop interior",
+  "w": 1300,
+  "h": 860
+ },
+ "une.jpg": {
+  "source": "commons",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Liat_Portal_for_Foodie_Disorder_-_Fresh_Spinach.jpg/1920px-Liat_Portal_for_Foodie_Disorder_-_Fresh_Spinach.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File%3ALiat_Portal_for_Foodie_Disorder_-_Fresh_Spinach.jpg",
+  "author": "HaJunkiyada",
+  "q": "grocery bag vegetables",
+  "w": 1300,
+  "h": 860
+ },
+ "in-meilleure-enseigne-bio-1.jpg": {
+  "source": "commons",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Bulk_Foods%2C_Sprouts_Farmers_Market%2C_West_Melbourne%2C_Florida.jpg/1920px-Bulk_Foods%2C_Sprouts_Farmers_Market%2C_West_Melbourne%2C_Florida.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File%3ABulk_Foods%2C_Sprouts_Farmers_Market%2C_West_Melbourne%2C_Florida.jpg",
+  "author": "Pokemonprime",
+  "q": "bulk food dispensers",
+  "w": 1200,
+  "h": 700
+ },
+ "in-meilleure-enseigne-bio-2.jpg": {
+  "source": "commons",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Street_Scene_with_Fruit_Stall_-_Coatepec_-_Veracruz_-_Mexico.jpg/1920px-Street_Scene_with_Fruit_Stall_-_Coatepec_-_Veracruz_-_Mexico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File%3AStreet_Scene_with_Fruit_Stall_-_Coatepec_-_Veracruz_-_Mexico.jpg",
+  "author": "Adam Jones",
+  "q": "fruit stall",
+  "w": 1200,
+  "h": 700
+ },
+ "in-biocoop-ou-greenweez-1.jpg": {
+  "source": "loremflickr",
+  "url": "https://loremflickr.com/1200/700/paper,bag,groceries/all",
+  "credit": "https://loremflickr.com/",
+  "author": "LoremFlickr (Flickr CC)",
+  "q": "paper bag groceries",
+  "w": 1200,
+  "h": 700
+ },
+ "in-biocoop-ou-greenweez-2.jpg": {
+  "source": "commons",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/A_bike_courier_and_bike_commuter_in_a_pilot_bus-bike_lane_in_Mexico_City.jpg/1920px-A_bike_courier_and_bike_commuter_in_a_pilot_bus-bike_lane_in_Mexico_City.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File%3AA_bike_courier_and_bike_commuter_in_a_pilot_bus-bike_lane_in_Mexico_City.jpg",
+  "author": "Fabián Heredia Montiel",
+  "q": "bike courier city",
+  "w": 1200,
+  "h": 700
+ }
+}

@@ -1,0 +1,23 @@
+# Comparabio
+
+> Le comparateur des enseignes bio. Prix relevés en rayon, gammes comptées, avis lus.
+
+Site : https://analytics-ds.github.io/zz-test-pbn-ao/
+
+## Rubriques
+
+- [Magasins bio](https://analytics-ds.github.io/zz-test-pbn-ao/magasins/) : Comparatif des enseignes bio en magasin, Biocoop, Naturalia, La Vie Claire, Carrefour Bio. Panier relevé en rayon, largeur de gamme, vrac, avis clients. Le classement 2026.
+- [Courses bio en ligne](https://analytics-ds.github.io/zz-test-pbn-ao/en-ligne/) : Comparatif des sites de courses bio, Greenweez, Biocoop, La Fourche, Carrefour. Frais de livraison, délais, panier relevé, avis clients. Le classement 2026.
+
+## Comparatifs
+
+- [Quelle est la meilleure enseigne bio en 2026 ? Le comparatif de 8 enseignes](https://analytics-ds.github.io/zz-test-pbn-ao/magasins/meilleure-enseigne-bio/) : Quelle enseigne bio choisir en 2026 ? Panier de 20 produits relevé en rayon chez 8 enseignes, 2 400 références comptées, 3 100 avis Google lus. Classement, prix du panier et verdict.
+- [Biocoop ou Greenweez, quel site choisir pour ses courses bio en ligne ?](https://analytics-ds.github.io/zz-test-pbn-ao/en-ligne/biocoop-ou-greenweez/) : Biocoop ou Greenweez pour commander ses courses bio ? Le même panier de 20 produits commandé sur les deux sites, frais de port, délais et 1 800 avis Trustpilot comparés. Verdict chiffré.
+
+## Méthode
+
+- Les prix sont relevés en rayon et sur les sites des enseignes, hors promotion, sur un panier identique
+- La largeur de gamme est comptée sur les rayons frais, vrac et épicerie à partir des catalogues en ligne
+- Les avis clients proviennent de Google Maps et de Trustpilot, sur les douze derniers mois
+- Les engagements (vrac, local, commerce équitable) sont ceux publiés par chaque enseigne
+- Les relevés sont datés et refaits chaque trimestre

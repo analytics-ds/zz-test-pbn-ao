@@ -1,0 +1,23 @@
+# -*- coding: utf-8 -*-
+HOME = dict(
+ title="Comparateur des enseignes bio 2026, le classement des meilleures enseignes",
+ desc="Comparateur des enseignes bio 2026, prix du panier, largeur de gamme, vrac, livraison et avis de 8 enseignes, de Biocoop à Greenweez. Comparatifs magasins et courses en ligne.",
+ hero_img="hero-bg.jpg", hero_alt="Étal de légumes bio", h1="Le classement 2026 des meilleures <em>enseignes bio</em>",
+ p="Quelle enseigne bio choisir en 2026 ? Nous comparons 8 enseignes sur le prix du panier, la gamme, le vrac, la livraison et les avis clients.",
+ marquee_head="Les enseignes bio que nous comparons chaque mois",
+ marquee=[("biocoop","Biocoop"),("naturalia","Naturalia"),("la-vie-claire","La Vie Claire"),("greenweez","Greenweez"),("carrefour","Carrefour"),("leclerc","E.Leclerc")],
+ feat_h2="Le comparatif d'enseignes bio de la semaine", feat="en-ligne/biocoop-ou-greenweez", side=None,
+ tool_h2="Comparez deux enseignes bio en un clic", tool_p="Choisissez deux enseignes, nous affichons leurs notes sur nos cinq critères, calculées depuis nos relevés de l'année.",
+ tool_note="Notes sur 10, issues de nos relevés de septembre 2026.",
+ scores={"Biocoop":[7.4,9.1,8.2,8.4,8.3],"Naturalia":[6.1,7.8,8.8,7.6,7.6],"La Vie Claire":[7.0,7.2,7.1,7.5,7.4],"Greenweez":[7.6,9.4,6.2,7.4,7.8],"Carrefour Bio":[8.6,5.4,7.0,6.5,6.9],"E.Leclerc":[8.9,4.8,6.6,6.2,6.8]},
+ default_a="Biocoop", default_b="Naturalia",
+ cats_h2="Comparatifs d'enseignes bio par usage", cats_p="En magasin ou en ligne, les meilleures enseignes ne sont pas les mêmes.",
+ tiles=[("magasins","cat-magasins.jpg","4 comparatifs"),("en-ligne","cat-en-ligne.jpg","3 comparatifs")],
+ rank_h2="Les meilleures enseignes bio en septembre 2026", rank_p="Note globale sur 10, moyenne pondérée de nos cinq critères. Le classement bouge chaque mois avec les nouveaux relevés.",
+ rank=[("biocoop","Biocoop","La gamme la plus large","6 200 références, vrac partout, panier dans la moyenne.","8,3","up","▲ +0,2"),("greenweez","Greenweez","Le plus large en ligne","12 000 références, livraison offerte dès 49 €.","7,8","flat","= 0,0"),
+       ("naturalia","Naturalia","Le plus urbain","Réseau dense en ville, prix élevés.","7,6","flat","= 0,0"),("la-vie-claire","La Vie Claire","Le plus régulier","Marque propre solide.","7,4","up","▲ +0,1"),("carrefour","Carrefour Bio","Le moins cher","Panier serré, gamme courte.","6,9","down","▼ -0,2")],
+ posts_h2="Derniers comparatifs d'enseignes bio 2026", posts=None,
+ method_h2="Comment nous comparons les enseignes bio", method_p="Tout part de relevés datés en rayon et sur les sites, vérifiables un par un.",
+ steps=[("Nous relevons le même panier partout","20 produits du quotidien, en rayon et en ligne, hors promotion, trois fois par trimestre."),("Nous comptons les gammes","Références par rayon d'après les catalogues en ligne, vérifiées dans deux magasins par enseigne."),("Nous lisons les avis","Google Maps et Trustpilot sur douze mois, en écartant les avis sans texte.")],
+ news_h2="Recevez chaque comparatif d'enseignes bio avant tout le monde",
+)
