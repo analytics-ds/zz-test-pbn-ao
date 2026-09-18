@@ -1,9 +1,0 @@
-[
- {"slug": "biocoop", "name": "Biocoop", "domain": "biocoop.fr", "wiki": "Biocoop", "role": "client"},
- {"slug": "naturalia", "name": "Naturalia", "domain": "naturalia.fr", "wiki": "Naturalia", "role": "competitor"},
- {"slug": "la-vie-claire", "name": "La Vie Claire", "domain": "lavieclaire.com", "wiki": "La Vie Claire", "role": "competitor"},
- {"slug": "greenweez", "name": "Greenweez", "domain": "greenweez.com", "wiki": "Greenweez", "role": "competitor"},
- {"slug": "carrefour", "name": "Carrefour", "domain": "carrefour.fr", "wiki": "Carrefour (entreprise)", "role": "competitor"},
- {"slug": "leclerc", "name": "E.Leclerc", "domain": "e.leclerc", "wiki": "E.Leclerc", "role": "competitor"},
- {"slug": "generique", "name": "Marché de quartier", "role": "generic"}
-]

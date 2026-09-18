@@ -3,3 +3,20 @@ __pycache__/
 *.pyc
 _work/
 .playwright-cli/
+
+# Le depot est PUBLIC : il ne porte que le site rendu, jamais ce qui dit comment il a ete fabrique
+# ni pour qui. Les sources vivent dans le dossier local, qui fait foi.
+README.md
+config.py
+home.py
+categories.py
+pages.py
+contenus.py
+common.py
+linkify.py
+build_*.py
+articles/
+brands.json
+photos.json
+sources_logos.json
+sources_photos.json
